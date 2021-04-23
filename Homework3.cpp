@@ -1,7 +1,7 @@
 /*********
    CTIS164 - Template Source Program
 ----------
-STUDENT : Suhpi Erkin Karaçay
+STUDENT : Suhpi Erkin KaraÃ§ay
 SECTION : 002
 HOMEWORK: #3
 ----------
@@ -586,7 +586,7 @@ void main(int argc, char* argv[]) {
     glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE);
     glutInitWindowSize(WINDOW_WIDTH, WINDOW_HEIGHT);
     glutInitWindowPosition(250, 120);
-    glutCreateWindow("HW3: \"Budget Space Invaders\" by Suphi Erkin Karaçay");
+    glutCreateWindow("HW3: \"Budget Space Invaders\" by Suphi Erkin KaraÃ§ay");
 
     glutDisplayFunc(display);
     glutReshapeFunc(onResize);
